@@ -17,7 +17,7 @@ function convertToRoman(num) {
 		result=result-obj[num(i)];
 	}
  }
-result+=obj[num(num.length-1);];
+result+=obj[num(num.length-1)];
 	return result;
 }
 // You can test your code by running the above function and printing it to console by pressing the run button at the top. To run it with input 36, uncomment the following line
